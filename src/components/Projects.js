@@ -17,7 +17,7 @@ function Projects() {
                                 myself with HTML/CSS, JavaScript, and ReactJS in order to create this portfolio website.
                                 I had a lot of fun and plan to continue updating this website whenever I have the chance. Click 
                                 the GitHub logo below to see the repository with all the source code.</p>
-                                <a href="https://github.com/justin-gna" target="_blank" rel="noreferrer"><img src={githublogo} alt="GitHub Logo"></img></a></div>
+                                <a href="https://github.com/justin-gna/justin-website" target="_blank" rel="noreferrer"><img src={githublogo} alt="GitHub Logo"></img></a></div>
                     </div>
                 </div>
                 <div className="CardContainer">
