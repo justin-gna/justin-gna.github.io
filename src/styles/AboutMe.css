@@ -33,6 +33,11 @@
     width: 25rem;
     margin-left: 12rem;
     margin-right: 3rem;
+    transition: transform .75s ease-in-out;
+}
+
+.AboutMePicture:hover {
+    transform: rotate(360deg);
 }
 
 .AboutMeText {
