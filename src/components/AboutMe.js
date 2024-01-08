@@ -4,7 +4,7 @@ import logo from '../assets/logo.svg'
 function AboutMe() {
     return (
         <section className="AboutMe" id="AboutMe">
-            <span className="AboutMeTitle">about me</span>
+            <span className="AboutMeTitle">about me.</span>
             <div className="AboutMeContent">
                 <img src={logo} alt="me :D" className="AboutMePicture"></img>
                 <span className="AboutMeText">

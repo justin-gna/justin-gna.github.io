@@ -5,7 +5,7 @@ import youtubelogo from '../assets/white-youtube-logo.png'
 function Projects() {
     return (
         <section className="Projects" id="Projects">
-            <span className="ProjectsTitle">my projects</span>
+            <span className="ProjectsTitle">my projects.</span>
             <div className="ProjectsContent">
                 <div className="CardContainer">
                     <div className="ProjectCard">
