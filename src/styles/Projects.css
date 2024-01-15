@@ -14,7 +14,7 @@
     padding-top: 5rem;
     padding-bottom: 3rem;
     align-items: flex-end;
-    font-size: 2.25cm;
+    font-size: 5rem;
     font-weight: bold;
     color: rgb(236, 38, 80);
 }
@@ -28,10 +28,9 @@
 
 .CardContainer {
     position: relative;
-    width: 700px;
-    height: 350px;
-    margin-bottom: 75px;
-    border-radius: 20px;
+    width: 45rem;
+    height: 22.5rem;
+    margin-bottom: 4rem;
 }
 
 .ProjectCard {
@@ -55,11 +54,11 @@
     color: whitesmoke;
     background-image: url("../assets/4k_red_waves.png");
     background-size: cover;
-    border-radius: 20px;
+    border-radius: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1cm;
+    font-size: 2.5rem;
     font-weight: bold;
     text-shadow: black 3px 3px 5px;
 }
@@ -70,7 +69,7 @@
     height: 100%;
     backface-visibility: hidden;
     color: whitesmoke;
-    border-radius: 20px;
+    border-radius: 1rem;
     transform: rotateY(180deg);
     background: rgb(16, 16, 16);
     display: flex;
@@ -79,7 +78,7 @@
 }
 
 .WebsiteCardBack h2 {
-    font-size: 0.75cm;
+    font-size: 2rem;
     margin-top: 2rem;
     margin-bottom: 1.5rem;
     cursor: default;
@@ -112,11 +111,11 @@
     color: whitesmoke;
     background-image: url("../assets/boggle-bg.png");
     background-size: cover;
-    border-radius: 20px;
+    border-radius: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1cm;
+    font-size: 2.5rem;
     font-weight: bold;
     text-shadow: black 3px 3px 5px;
 }
@@ -127,7 +126,7 @@
     height: 100%;
     backface-visibility: hidden;
     color: whitesmoke;
-    border-radius: 20px;
+    border-radius: 1rem;
     transform: rotateY(180deg);
     background: rgb(16, 16, 16);
     display: flex;
@@ -136,7 +135,7 @@
 }
 
 .BoggleCardBack h2 {
-    font-size: 0.75cm;
+    font-size: 2rem;
     margin-top: 2rem;
     margin-bottom: 1.5rem;
     cursor: default;
@@ -151,7 +150,7 @@
 }
 
 .BoggleCardBack img {
-    height: 100px;
+    height: 6rem;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
 }
@@ -169,11 +168,11 @@
     color: whitesmoke;
     background-image: url("../assets/e-waste_bg.png");
     background-size: cover;
-    border-radius: 20px;
+    border-radius: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1cm;
+    font-size: 2.5rem;
     font-weight: bold;
     text-shadow: black 3px 3px 5px;
 }
