@@ -14,7 +14,7 @@
     padding-top: 5rem;
     padding-bottom: 3.5rem;
     align-items: flex-end;
-    font-size: 2.25cm;
+    font-size: 5rem;
     font-weight: bold;
     color: rgb(236, 38, 80);
 }
@@ -22,18 +22,17 @@
 .AboutMeContent {
     display: flex;
     flex-direction: row;
+    margin-left: 12rem;
+    margin-right: 12rem;
 }
 
 .AboutMePicture {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     border-radius: 50%;
     height: 25rem;
     width: 25rem;
-    margin-left: 12rem;
-    margin-right: 3rem;
     transition: transform .75s ease-in-out;
+    margin-right: 4rem;
+    margin-left: 0rem;
 }
 
 .AboutMePicture:hover {
@@ -44,14 +43,13 @@
     cursor: default;
     display: flex;
     flex-direction: column;
-    margin-right: 12rem;
-    margin-left: 7rem;
     justify-content: center;
     align-items: left;
+    margin-left: 4rem;
 }
 
 .AboutMeText h2 {
-    font-size: 1.1cm;
+    font-size: 3rem;
     margin-bottom: 1.5rem;
 }
 

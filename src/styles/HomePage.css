@@ -19,14 +19,14 @@
 }
 
 .HelloText {
-    font-size: 3cm;
+    font-size: 8rem;
     color: whitesmoke;
     margin: 2rem;
     cursor: default;
 }
 
 .MyName {
-    font-size: 3cm;
+    font-size: 8rem;
     color: rgb(236, 38, 80);
     cursor: default;
 }
