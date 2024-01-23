@@ -13,7 +13,7 @@ function AboutMe() {
                         Mathematics at the University of Toronto 📚.</p>
                     <p>Some topics I'm fond of are Artificial Intelligence 🤖, Software Design 💻, 
                         Cryptography 🔐, and Discrete Mathematics 🔢. I've got experience creating 
-                        projects using Python, Java, C/C++, HTML/CSS, and ReactJS. In my current 
+                        projects using Python, Java, C/C++, HTML/CSS, JavaScript, and ReactJS. In my current 
                         semester I'm excited about studying Machine Learning using Python and Databases using SQL.</p>
                     <p>
                         When I'm not at school I spend my time playing volleyball 🏐 or soccer ⚽, catching up on the latest movies 🎬
