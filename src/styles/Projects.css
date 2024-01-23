@@ -149,6 +149,10 @@
     font-weight: 600;
 }
 
+.BoggleCardBack .BoggleLink {
+    color: rgb(236, 38, 80);
+}
+
 .BoggleCardBack img {
     height: 6rem;
     cursor: pointer;

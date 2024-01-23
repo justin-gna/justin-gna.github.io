@@ -26,9 +26,9 @@ function Projects() {
                         <div className="BoggleCardBack">
                         <h2>boggle 1.1 (dec. 2022)</h2>
                             <p>This assignment was the culminating project of CSC207H5 (Software Design), the goal of this 
-                                assignment was to improve upon an earlier assignment which was to create a Boggle game that 
+                                assignment was to improve upon an earlier assignment which was to create a <a className="BoggleLink" href="https://en.wikipedia.org/wiki/Boggle" target="_blank" rel="noreferrer">Boggle</a> game that 
                                 was played in the console. For this project our group focused on enhancing 
-                                the user experience when playing Boggle. Through the implementation of a fully-functional 
+                                the user's experience. Through the implementation of a fully-functional 
                                 graphics user interface, accessibility features, various difficulties and modes to 
                                 the game, we managed to improve user experience significantly. Click the YouTube logo below to 
                                 watch our presentation of the final product.</p>
